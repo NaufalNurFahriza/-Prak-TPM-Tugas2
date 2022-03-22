@@ -1,5 +1,8 @@
 # pertemuan4_tugas
 
+Nama : Naufal Nur Fahriza
+NIM  : 123190024
+
 A new Flutter project.
 
 ## Getting Started
